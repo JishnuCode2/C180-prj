@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-y: scroll
+}
+
+#map{
+    height: 75vh;
+}
+
+.container{
+    margin-top: 1em;
+    border: 3px solid rgb(73, 88, 221);
+}
+
+.image-marker{
+    height: 55px;
+    width: 55px;
+}
+
+#navigate-button{
+    border: 2px solid black;
+    width: 50%;
+    padding: 1em;
+    border-radius: 1em;
+    
+}
